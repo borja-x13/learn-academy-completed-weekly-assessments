@@ -12,10 +12,10 @@ Your answer: The difference between and object oriented programming (OOP) is tha
 
 Researched answer: The principles of Object oriented programming are:  
 
-- Encapsulation, where you contain logic inside objects.
-- Abstraction, which allow only pertinent code to be shown while hiding unnecessary code.
-- Inheritance, which I meantioned before in where a parent class creates a blueprint for child classes.
-- Polymorphism, where child classes, while inheriting properties of the parent, can also other properties required for specialization.
+- Encapsulation: Encapsulation allows you contain logic inside objects.
+- Abstraction: Abstraction allows only pertinent code to be shown while hiding unnecessary code.
+- Inheritance: Inheritance is where where a parent class creates a blueprint for child classes.
+- Polymorphism: Polymorphism is where child classes, while inheriting properties of the parent, can also other properties required for specialization.
 
 2. What is the difference between a Float and an Integer in Ruby?
 
